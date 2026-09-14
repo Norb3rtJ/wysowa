@@ -1,0 +1,21 @@
+{
+  "title": "Dwie widokowe dzialki w Wysowej-Zdroju",
+  "location": "Wysowa-Zdroj",
+  "price_each": "155000 PLN",
+  "area_total": "24.5 ar",
+  "area_each": "ok. 12 ar",
+  "plot_count": 2,
+  "plot_numbers": ["603/35/1", "603/35/2"],
+  "sale_options": ["zakup obu dzialek jednoczesnie", "zakup kazdej z osobna"],
+  "destination": "MNU - zabudowa mieszkaniowa jednorodzinna i uslugowa",
+  "land_use_classes": ["RV", "PsV"],
+  "media": ["prad", "kanalizacja", "wodociag", "wlasna studnia"],
+  "access": "droga szutrowa",
+  "highlights": [
+    "dwie dzialki obok siebie na tym samym zboczu",
+    "okolo 10 minut pieszo do centrum",
+    "okolo 200 m do lasu",
+    "lacznie 24.5 ar widokowej przestrzeni"
+  ],
+  "documents": []
+}
