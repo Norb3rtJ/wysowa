@@ -5,7 +5,7 @@
   "area_total": "24.5 ar",
   "area_each": "ok. 12 ar",
   "plot_count": 2,
-  "plot_numbers": ["603/35/1", "603/35/2"],
+  "plot_numbers": ["603/35"],
   "sale_options": ["zakup obu dzialek jednoczesnie", "zakup kazdej z osobna"],
   "destination": "MNU - zabudowa mieszkaniowa jednorodzinna i uslugowa",
   "land_use_classes": ["RV", "PsV"],
